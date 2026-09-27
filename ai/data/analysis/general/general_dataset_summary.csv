@@ -1,0 +1,11 @@
+video_id,category,total_frames,detected_frames,lost_frames,detection_percentage,quality_status
+General1,General,76,76,0,100.0,GOOD
+General2,General,177,170,7,96.05,GOOD
+General3,General,146,127,19,86.99,ACCEPTABLE
+S_v5,General,50,50,0,100.0,GOOD
+s_v1,General,313,176,137,56.23,REVIEW
+s_v2,General,558,381,177,68.28,REVIEW
+s_v3,General,90,89,1,98.89,GOOD
+s_v4,General,59,54,5,91.53,GOOD
+s_v6,General,558,193,365,34.59,POOR
+s_v7,General,108,76,32,70.37,REVIEW

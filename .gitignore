@@ -1,4 +1,5 @@
 # Node / Frontend
+
 node_modules
 dist
 dist-ssr
@@ -15,23 +16,27 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Wrangler / Cloudflare
+
 .wrangler/
 .dev.vars
 
 # Python / AI Backend
-__pycache__/
+
+**pycache**/
 *.pyc
 *.pyo
 ai/venv/
 venv/
 
 # Generated output videos & raw dataset videos
+
 ai/output/
 ai/output/**
 ai/videos/
 ai/data/raw/
 
 # IDE & OS temporary files
+
 .vscode/
 .pyrefly/
 .pyrefly.json
@@ -44,3 +49,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Additional raw dataset paths
+
+ai/data/data/raw/
+ai/data/data/raw/**
